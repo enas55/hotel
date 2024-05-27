@@ -25,14 +25,14 @@ class Rooms extends StatelessWidget {
                 ),
                 details: 'A room with a king-sized bed'),
             rooms(
-                title: 'King Room',
+                title: 'Double Room',
                 img: Image.asset(
                   'images/istockphoto.jpg',
                   width: 100,
                 ),
                 details: 'A room assigned to two people'),
             rooms(
-                title: 'King Room',
+                title: 'Family Room',
                 img: Image.asset(
                   'images/room_fourth_images_01.jpg',
                   width: 100,
